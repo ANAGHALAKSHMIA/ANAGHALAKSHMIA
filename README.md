@@ -14,3 +14,4 @@ Database : SQL, PostgreSQL
 Feel free to explore my repositories and get in touch if you have any questions or collaboration opportunities!
 
 
+[![An image of @anaghalakshmia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anaghalakshmia)](https://holopin.io/@anaghalakshmia)
